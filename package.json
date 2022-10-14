@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "jodie",
+  "name": "Panorama Cars",
   "description": "Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.",
   "version": "0.1.6",
-  "author": "LekoArts",
+  "author": "Anas",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-jodie",
   "scripts": {
