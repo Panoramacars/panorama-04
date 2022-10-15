@@ -2,7 +2,7 @@ import * as React from "react"
 
 const Logo = () => (
    
-<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="30pt" height="30pt" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid meet">
+<svg width="30pt" height="30pt" viewBox="0 0 30 30" preserveAspectRatio="xMidYMid meet">
 
 <g transform="translate(0.000000,150.000000) scale(0.100000,-0.100000)" fill="red" stroke="none">
 <path d="M79 1456 c-2 -2 -3 -323 -1 -713 l3 -708 40 145 c80 286 203 579 314 744 134 202 322 370 547 491 l83 45 -491 0 c-270 0 -493 -2 -495 -4z"></path>
